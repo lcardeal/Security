@@ -67,15 +67,15 @@ Ao completar este projeto, você será capaz de:
 │  ┌───────────────────────────────────────────┐  │
 │  │         VirtualBox Manager                │  │
 │  │                                           │  │
-│  │  ┌──────────────┐    ┌─────────────────┐ │  │
-│  │  │  Kali Linux  │    │ Metasploitable2 │ │  │
-│  │  │              │    │                 │ │  │
-│  │  │ 192.168.56.2 │◄──►│ 192.168.56.3   │ │  │
-│  │  │              │    │                 │ │  │
-│  │  │   Medusa     │    │  FTP, SSH, SMB  │ │  │
-│  │  │   Hydra      │    │  HTTP (DVWA)    │ │  │
-│  │  │   Nmap       │    │  MySQL          │ │  │
-│  │  └──────────────┘    └─────────────────┘ │  │
+│  │  ┌──────────────┐    ┌─────────────────┐  │  │
+│  │  │  Kali Linux  │    │ Metasploitable2 │  │  │
+│  │  │              │    │                 │  │  │
+│  │  │ 192.168.56.2 │◄──►│ 192.168.56.3    │  │  │
+│  │  │              │    │                 │  │  │
+│  │  │   Medusa     │    │  FTP, SSH, SMB  │  │  │
+│  │  │   Hydra      │    │  HTTP (DVWA)    │  │  │
+│  │  │   Nmap       │    │  MySQL          │  │  │
+│  │  └──────────────┘    └─────────────────┘  │  │
 │  │                                           │  │
 │  │         Host-Only Network                 │  │
 │  │         (vboxnet0)                        │  │
