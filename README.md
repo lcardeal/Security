@@ -27,6 +27,8 @@
 ## 🎯 Sobre o Projeto
 
 Este projeto documenta uma série de testes de segurança ofensiva utilizando o **Medusa**, uma ferramenta de força bruta modular e paralela, em conjunto com ambientes intencionalmente vulneráveis (Metasploitable 2 e DVWA).
+Alguns ambientes foram reaproveitados, portanto nem todos os itens podem estar atualizados. 
+Conteúdo criado para validação de bootcamp Santander 2025.
 
 ### O que é Medusa?
 
