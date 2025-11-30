@@ -48,8 +48,6 @@ O objetivo é demonstrar:
 
 ## 🎓 Objetivos de Aprendizado
 
-Ao completar este projeto, você será capaz de:
-
 - ✅ Configurar ambientes isolados para testes de segurança
 - ✅ Utilizar ferramentas de força bruta de forma ética e controlada
 - ✅ Identificar vulnerabilidades em serviços de autenticação
@@ -830,26 +828,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ---
 
-## 📧 Contato
-
-**Autor**: [Seu Nome]  
-**LinkedIn**: [Seu LinkedIn]  
-**GitHub**: [Seu GitHub]  
-**Email**: [seu.email@exemplo.com]
-
----
-
 ## ⭐ Agradecimentos
 
 - Comunidade Kali Linux
 - Rapid7 (Metasploit/Metasploitable)
 - Projeto DVWA
 - Todos os contribuidores de ferramentas open-source de segurança
+- Amigos de trabalho e grupos em comum que tiraram dúvidas cruciais para validar os testes.
 
----
 
-**Última atualização**: Novembro 2024
-
-> 💡 **Lembre-se**: Com grandes poderes vêm grandes responsabilidades. Use este conhecimento para tornar a internet um lugar mais seguro, não para prejudicar outros.
-
-**#InfoSec #PenetrationTesting #EthicalHacking #CyberSecurity #Medusa #KaliLinux**
