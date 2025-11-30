@@ -212,6 +212,7 @@ EOF
 
 # Criar wordlist de senhas simples
 cat > passwords.txt << EOF
+msfadmin
 123456
 password
 admin
