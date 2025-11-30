@@ -12,20 +12,32 @@ Implementação prática de simulações seguras de ransomware (criptografia rev
 
 ## Estrutura do Projeto
 
-Bootcamp2/
 ├── README.md                  # Este arquivo
+
 ├── requirements.txt           # Dependências Python
+
 ├── .gitignore                 # Ignora arquivos sensíveis
+
 ├── ransomware/                # Simulação de ransomware
+
 │   ├── ransom_simulator.py
+
 │   ├── test_files/            # Arquivos de teste (gerados em runtime)
+
 │   └── images/                # Screenshots opcionais
+
 ├── keylogger/                 # Simulação de keylogger
+
 │   ├── keylogger_simulado.py
+
 │   ├── stealth_mode.py        # Técnicas furtivas (educacional)
+
 │   ├── email_sender_simulado.py  # Envio simulado
+
 │   └── logs/                  # Logs gerados
+
 └── defense/                   # Documentação de defesas
+
 └── defesa_contra_malware.md
 
 
