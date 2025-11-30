@@ -53,6 +53,4 @@ Implementação prática de simulações seguras de ransomware (criptografia rev
 - Malwares exploram brechas humanas (phishing) e técnicas (SMB/RDP).
 - Defesas: Backups 3-2-1, EDR, treinamento.
 
-Feito em Novembro/2025 para Bootcamp2 de segurança. Contribuições bem-vindas (éticas)!
-
-![Ransomware Demo](ransomware/images/ransomware_before.png)
+Feito em Novembro/2025 para Bootcamp2 de segurança Santander.
